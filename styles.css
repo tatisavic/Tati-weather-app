@@ -1,0 +1,44 @@
+h1 {
+  font-family: cursive;
+  color: rgb(4, 4, 59);
+  font-size: 34px;
+  line-height: 48px;
+  margin: 0 auto;
+}
+h2 {
+  font-size: 18px;
+  font-family: "PT Sans", sans-serif;
+  line-height: 38px;
+  margin: 0 auto;
+}
+li {
+  font-weight: 500;
+  font-family: "PT Sans", sans-serif;
+  list-style: none;
+}
+.col-1 {
+  font-weight: 600;
+}
+.weather-app {
+  border: 1px solid rgb(5, 5, 82);
+  background-color: rgb(143, 225, 228);
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 15px;
+}
+.temperature {
+  color: rgb(5, 5, 82);
+  font-weight: 400px;
+  font-size: 64px;
+}
+.units {
+  position: relative;
+  top: -32px;
+}
+btn-success {
+  display: block;
+  margin: 0 auto;
+  background: greenyellow;
+  color: white;
+  padding: 10px 5px;
+}
